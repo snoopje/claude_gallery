@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Free Galleries",
+    "welcome": "Welkom",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "logout": "Uitloggen",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "create": "Aanmaken",
+    "search": "Zoeken",
+    "loading": "Laden..."
+  },
+  "nav": {
+    "home": "Home",
+    "galleries": "Galerijen",
+    "artists": "Kunstenaars",
+    "events": "Evenementen",
+    "profile": "Profiel",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signInTitle": "Inloggen op uw account",
+    "signUpTitle": "Account aanmaken",
+    "selectRole": "Selecteer uw rol",
+    "roleAdmin": "Beheerder",
+    "roleGalleryOwner": "Galerie Eigenaar",
+    "roleArtist": "Kunstenaar",
+    "emailPlaceholder": "uw@email.nl",
+    "passwordPlaceholder": "Uw wachtwoord",
+    "noAccount": "Nog geen account?",
+    "hasAccount": "Al een account?",
+    "signInLink": "Inloggen",
+    "signUpLink": "Registreren"
+  },
+  "roles": {
+    "admin": "Beheerder",
+    "gallery_owner": "Galerie Eigenaar",
+    "artist": "Kunstenaar"
+  },
+  "gallery": {
+    "title": "Galerijen",
+    "createGallery": "Galerie aanmaken",
+    "editGallery": "Galerie bewerken",
+    "galleryName": "Galerienaam",
+    "description": "Beschrijving",
+    "address": "Adres",
+    "city": "Stad",
+    "country": "Land",
+    "postalCode": "Postcode",
+    "phone": "Telefoon",
+    "website": "Website",
+    "openingHours": "Openingstijden"
+  },
+  "artist": {
+    "title": "Kunstenaars",
+    "bio": "Biografie",
+    "portfolio": "Portfolio",
+    "artworks": "Kunstwerken"
+  },
+  "artwork": {
+    "title": "Kunstwerken",
+    "createArtwork": "Kunstwerk aanmaken",
+    "artworkTitle": "Titel",
+    "year": "Jaar",
+    "medium": "Medium",
+    "dimensions": "Afmetingen",
+    "price": "Prijs",
+    "available": "Beschikbaar",
+    "uploadImage": "Afbeelding uploaden"
+  },
+  "event": {
+    "title": "Evenementen",
+    "createEvent": "Evenement aanmaken",
+    "eventTitle": "Evenement Titel",
+    "eventType": "Evenement Type",
+    "vernissage": "Vernissage",
+    "exhibition": "Tentoonstelling",
+    "workshop": "Workshop",
+    "other": "Andere",
+    "startDate": "Startdatum",
+    "endDate": "Einddatum",
+    "location": "Locatie",
+    "maxAttendees": "Maximum aantal deelnemers",
+    "isPublic": "Openbaar evenement"
+  }
+}

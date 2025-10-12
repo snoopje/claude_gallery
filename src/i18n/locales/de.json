@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Free Galleries",
+    "welcome": "Willkommen",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "loading": "Laden..."
+  },
+  "nav": {
+    "home": "Startseite",
+    "galleries": "Galerien",
+    "artists": "Künstler",
+    "events": "Veranstaltungen",
+    "profile": "Profil",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signInTitle": "Bei Ihrem Konto anmelden",
+    "signUpTitle": "Konto erstellen",
+    "selectRole": "Wählen Sie Ihre Rolle",
+    "roleAdmin": "Administrator",
+    "roleGalleryOwner": "Galerieinhaber",
+    "roleArtist": "Künstler",
+    "emailPlaceholder": "ihre@email.de",
+    "passwordPlaceholder": "Ihr Passwort",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "signInLink": "Anmelden",
+    "signUpLink": "Registrieren"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "gallery_owner": "Galerieinhaber",
+    "artist": "Künstler"
+  },
+  "gallery": {
+    "title": "Galerien",
+    "createGallery": "Galerie erstellen",
+    "editGallery": "Galerie bearbeiten",
+    "galleryName": "Galeriename",
+    "description": "Beschreibung",
+    "address": "Adresse",
+    "city": "Stadt",
+    "country": "Land",
+    "postalCode": "Postleitzahl",
+    "phone": "Telefon",
+    "website": "Webseite",
+    "openingHours": "Öffnungszeiten"
+  },
+  "artist": {
+    "title": "Künstler",
+    "bio": "Biografie",
+    "portfolio": "Portfolio",
+    "artworks": "Kunstwerke"
+  },
+  "artwork": {
+    "title": "Kunstwerke",
+    "createArtwork": "Kunstwerk erstellen",
+    "artworkTitle": "Titel",
+    "year": "Jahr",
+    "medium": "Medium",
+    "dimensions": "Abmessungen",
+    "price": "Preis",
+    "available": "Verfügbar",
+    "uploadImage": "Bild hochladen"
+  },
+  "event": {
+    "title": "Veranstaltungen",
+    "createEvent": "Veranstaltung erstellen",
+    "eventTitle": "Veranstaltungstitel",
+    "eventType": "Veranstaltungstyp",
+    "vernissage": "Vernissage",
+    "exhibition": "Ausstellung",
+    "workshop": "Workshop",
+    "other": "Andere",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum",
+    "location": "Ort",
+    "maxAttendees": "Maximale Teilnehmerzahl",
+    "isPublic": "Öffentliche Veranstaltung"
+  }
+}

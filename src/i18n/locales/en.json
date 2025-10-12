@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Free Galleries",
+    "welcome": "Welcome",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "nav": {
+    "home": "Home",
+    "galleries": "Galleries",
+    "artists": "Artists",
+    "events": "Events",
+    "profile": "Profile",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signInTitle": "Sign in to your account",
+    "signUpTitle": "Create your account",
+    "selectRole": "Select your role",
+    "roleAdmin": "Administrator",
+    "roleGalleryOwner": "Gallery Owner",
+    "roleArtist": "Artist",
+    "emailPlaceholder": "your@email.com",
+    "passwordPlaceholder": "Your password",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signInLink": "Sign in",
+    "signUpLink": "Sign up"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "gallery_owner": "Gallery Owner",
+    "artist": "Artist"
+  },
+  "gallery": {
+    "title": "Galleries",
+    "createGallery": "Create Gallery",
+    "editGallery": "Edit Gallery",
+    "galleryName": "Gallery Name",
+    "description": "Description",
+    "address": "Address",
+    "city": "City",
+    "country": "Country",
+    "postalCode": "Postal Code",
+    "phone": "Phone",
+    "website": "Website",
+    "openingHours": "Opening Hours"
+  },
+  "artist": {
+    "title": "Artists",
+    "bio": "Biography",
+    "portfolio": "Portfolio",
+    "artworks": "Artworks"
+  },
+  "artwork": {
+    "title": "Artworks",
+    "createArtwork": "Create Artwork",
+    "artworkTitle": "Title",
+    "year": "Year",
+    "medium": "Medium",
+    "dimensions": "Dimensions",
+    "price": "Price",
+    "available": "Available",
+    "uploadImage": "Upload Image"
+  },
+  "event": {
+    "title": "Events",
+    "createEvent": "Create Event",
+    "eventTitle": "Event Title",
+    "eventType": "Event Type",
+    "vernissage": "Vernissage",
+    "exhibition": "Exhibition",
+    "workshop": "Workshop",
+    "other": "Other",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "location": "Location",
+    "maxAttendees": "Maximum Attendees",
+    "isPublic": "Public Event"
+  }
+}

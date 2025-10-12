@@ -1,0 +1,91 @@
+{
+  "common": {
+    "appName": "Free Galleries",
+    "welcome": "Välkommen",
+    "login": "Logga in",
+    "signup": "Registrera",
+    "logout": "Logga ut",
+    "email": "E-post",
+    "password": "Lösenord",
+    "save": "Spara",
+    "cancel": "Avbryt",
+    "delete": "Ta bort",
+    "edit": "Redigera",
+    "create": "Skapa",
+    "search": "Sök",
+    "loading": "Laddar..."
+  },
+  "nav": {
+    "home": "Hem",
+    "galleries": "Gallerier",
+    "artists": "Konstnärer",
+    "events": "Evenemang",
+    "profile": "Profil",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signInTitle": "Logga in på ditt konto",
+    "signUpTitle": "Skapa ditt konto",
+    "selectRole": "Välj din roll",
+    "roleAdmin": "Administratör",
+    "roleGalleryOwner": "Galleriägare",
+    "roleArtist": "Konstnär",
+    "emailPlaceholder": "din@email.se",
+    "passwordPlaceholder": "Ditt lösenord",
+    "noAccount": "Har du inget konto?",
+    "hasAccount": "Har du redan ett konto?",
+    "signInLink": "Logga in",
+    "signUpLink": "Registrera"
+  },
+  "roles": {
+    "admin": "Administratör",
+    "gallery_owner": "Galleriägare",
+    "artist": "Konstnär"
+  },
+  "gallery": {
+    "title": "Gallerier",
+    "createGallery": "Skapa galleri",
+    "editGallery": "Redigera galleri",
+    "galleryName": "Gallerinamn",
+    "description": "Beskrivning",
+    "address": "Adress",
+    "city": "Stad",
+    "country": "Land",
+    "postalCode": "Postnummer",
+    "phone": "Telefon",
+    "website": "Webbplats",
+    "openingHours": "Öppettider"
+  },
+  "artist": {
+    "title": "Konstnärer",
+    "bio": "Biografi",
+    "portfolio": "Portfolio",
+    "artworks": "Konstverk"
+  },
+  "artwork": {
+    "title": "Konstverk",
+    "createArtwork": "Skapa konstverk",
+    "artworkTitle": "Titel",
+    "year": "År",
+    "medium": "Medium",
+    "dimensions": "Dimensioner",
+    "price": "Pris",
+    "available": "Tillgänglig",
+    "uploadImage": "Ladda upp bild"
+  },
+  "event": {
+    "title": "Evenemang",
+    "createEvent": "Skapa evenemang",
+    "eventTitle": "Evenemangstitel",
+    "eventType": "Evenemangstyp",
+    "vernissage": "Vernissage",
+    "exhibition": "Utställning",
+    "workshop": "Workshop",
+    "other": "Annat",
+    "startDate": "Startdatum",
+    "endDate": "Slutdatum",
+    "location": "Plats",
+    "maxAttendees": "Maximalt antal deltagare",
+    "isPublic": "Offentligt evenemang"
+  }
+}
